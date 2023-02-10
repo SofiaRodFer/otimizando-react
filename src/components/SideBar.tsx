@@ -36,4 +36,4 @@ function SideBarComponent({
   )
 }
 
-export const Sidebar = memo(SideBarComponent)
+export const SideBar = memo(SideBarComponent)
