@@ -1,6 +1,6 @@
 import { useEffect, useState, useCallback } from 'react';
 
-import { SideBar } from './components/SideBar';
+import { Sidebar } from './components/SideBar';
 import { Content } from './components/Content';
 
 import { api } from './services/api';
